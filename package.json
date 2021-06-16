@@ -1,0 +1,23 @@
+{
+  "name": "graphql-api-client",
+  "version": "1.0.0",
+  "description": "Bootcamp Projetc: Build an app that consumes a GraphQL API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valladao/graphql-api-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valladao/graphql-api-client/issues"
+  },
+  "homepage": "https://github.com/valladao/graphql-api-client#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
